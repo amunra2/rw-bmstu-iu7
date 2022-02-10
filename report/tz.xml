@@ -1,0 +1,528 @@
+<?xml version="1.0"?>
+<root ptr="0x5591cbf0a9f0" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x5591cbe41400" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="44" nContent="19"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="19353" height="16838" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="19353" height="16838"/>
+ </infos>
+ <page ptr="0x5591cbf08340" id="1" symbol="11SwPageFrame" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7731" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1418" top="851" width="9637" height="15419"/>
+  </infos>
+  <body ptr="0x5591cbf0c560" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="9149" top="1135" width="9637" height="15419" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9637" height="15419"/>
+   </infos>
+   <txt ptr="0x5591cbd36b00" id="3" symbol="11SwTextFrame" next="4" upper="2" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="1135" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+Министерство науки и высшего образования Российской Федерации    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="1054"/>
+    <Text nLength="61" nType="PortionType::Text" nHeight="276" nWidth="7530" Portion="&#x41C;&#x438;&#x43D;&#x438;&#x441;&#x442;&#x435;&#x440;&#x441;&#x442;&#x432;&#x43E; &#x43D;&#x430;&#x443;&#x43A;&#x438; &#x438; &#x432;&#x44B;&#x441;&#x448;&#x435;&#x433;&#x43E; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x439;&#x441;&#x43A;&#x43E;&#x439; &#x424;&#x435;&#x434;&#x435;&#x440;&#x430;&#x446;&#x438;&#x438;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="1054"/>
+    <LineBreak nWidth="9638" Line="&#x41C;&#x438;&#x43D;&#x438;&#x441;&#x442;&#x435;&#x440;&#x441;&#x442;&#x432;&#x43E; &#x43D;&#x430;&#x443;&#x43A;&#x438; &#x438; &#x432;&#x44B;&#x441;&#x448;&#x435;&#x433;&#x43E; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x439;&#x441;&#x43A;&#x43E;&#x439; &#x424;&#x435;&#x434;&#x435;&#x440;&#x430;&#x446;&#x438;&#x438;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbdc1c40" id="4" symbol="11SwTextFrame" next="5" prev="3" upper="2" txtNodeIndex="10" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="1411" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+Федеральное государственное бюджетное образовательное учреждение     <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="952"/>
+    <Text nLength="65" nType="PortionType::Text" nHeight="276" nWidth="7733" Portion="&#x424;&#x435;&#x434;&#x435;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x433;&#x43E;&#x441;&#x443;&#x434;&#x430;&#x440;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x435; &#x431;&#x44E;&#x434;&#x436;&#x435;&#x442;&#x43D;&#x43E;&#x435; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x443;&#x447;&#x440;&#x435;&#x436;&#x434;&#x435;&#x43D;&#x438;&#x435; "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="953"/>
+    <LineBreak nWidth="9638" Line="&#x424;&#x435;&#x434;&#x435;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x433;&#x43E;&#x441;&#x443;&#x434;&#x430;&#x440;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x435; &#x431;&#x44E;&#x434;&#x436;&#x435;&#x442;&#x43D;&#x43E;&#x435; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x443;&#x447;&#x440;&#x435;&#x436;&#x434;&#x435;&#x43D;&#x438;&#x435; "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbda8980" id="5" symbol="11SwTextFrame" next="6" prev="4" upper="2" txtNodeIndex="11" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="1687" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+высшего образования    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3625"/>
+    <Text nLength="19" nType="PortionType::Text" nHeight="276" nWidth="2388" Portion="&#x432;&#x44B;&#x441;&#x448;&#x435;&#x433;&#x43E; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3625"/>
+    <LineBreak nWidth="9638" Line="&#x432;&#x44B;&#x441;&#x448;&#x435;&#x433;&#x43E; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0c740" id="6" symbol="11SwTextFrame" next="7" prev="5" upper="2" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="1963" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+«Московский государственный технический университет имени Н.Э. Баумана    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="535"/>
+    <Text nLength="70" nType="PortionType::Text" nHeight="276" nWidth="8568" Portion="&#xAB;&#x41C;&#x43E;&#x441;&#x43A;&#x43E;&#x432;&#x441;&#x43A;&#x438;&#x439; &#x433;&#x43E;&#x441;&#x443;&#x434;&#x430;&#x440;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x445;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x439; &#x443;&#x43D;&#x438;&#x432;&#x435;&#x440;&#x441;&#x438;&#x442;&#x435;&#x442; &#x438;&#x43C;&#x435;&#x43D;&#x438; &#x41D;.&#x42D;. &#x411;&#x430;&#x443;&#x43C;&#x430;&#x43D;&#x430;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="535"/>
+    <LineBreak nWidth="9638" Line="&#xAB;&#x41C;&#x43E;&#x441;&#x43A;&#x43E;&#x432;&#x441;&#x43A;&#x438;&#x439; &#x433;&#x43E;&#x441;&#x443;&#x434;&#x430;&#x440;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x44B;&#x439; &#x442;&#x435;&#x445;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x439; &#x443;&#x43D;&#x438;&#x432;&#x435;&#x440;&#x441;&#x438;&#x442;&#x435;&#x442; &#x438;&#x43C;&#x435;&#x43D;&#x438; &#x41D;.&#x42D;. &#x411;&#x430;&#x443;&#x43C;&#x430;&#x43D;&#x430;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0c8b0" id="7" symbol="11SwTextFrame" next="8" prev="6" upper="2" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="2239" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+(национальный исследовательский университет)»    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="2077"/>
+    <Text nLength="45" nType="PortionType::Text" nHeight="276" nWidth="5483" Portion="(&#x43D;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x438;&#x439; &#x443;&#x43D;&#x438;&#x432;&#x435;&#x440;&#x441;&#x438;&#x442;&#x435;&#x442;)&#xBB;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="2078"/>
+    <LineBreak nWidth="9638" Line="(&#x43D;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x438;&#x439; &#x443;&#x43D;&#x438;&#x432;&#x435;&#x440;&#x441;&#x438;&#x442;&#x435;&#x442;)&#xBB;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0ca20" id="8" symbol="11SwTextFrame" next="9" prev="7" upper="2" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="2515" width="9637" height="386" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+(МГТУ им. Н.Э. Баумана)    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3405"/>
+    <Text nLength="23" nType="PortionType::Text" nHeight="276" nWidth="2827" Portion="(&#x41C;&#x413;&#x422;&#x423; &#x438;&#x43C;. &#x41D;.&#x42D;. &#x411;&#x430;&#x443;&#x43C;&#x430;&#x43D;&#x430;)"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3406"/>
+    <LineBreak nWidth="9638" Line="(&#x41C;&#x413;&#x422;&#x423; &#x438;&#x43C;. &#x41D;.&#x42D;. &#x411;&#x430;&#x443;&#x43C;&#x430;&#x43D;&#x430;)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0cb90" id="9" symbol="11SwTextFrame" next="10" prev="8" upper="2" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="2901" width="9637" height="161" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="161"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4819"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="161"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4819"/>
+    <LineBreak nWidth="9638"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0cd00" id="10" symbol="11SwTextFrame" next="11" prev="9" upper="2" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="3062" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="8219" height="276"/>
+    </infos>
+УТВЕРЖДАЮ    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="6664"/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="276" nWidth="1556" Portion="&#x423;&#x422;&#x412;&#x415;&#x420;&#x416;&#x414;&#x410;&#x42E;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="8220" Line="&#x423;&#x422;&#x412;&#x415;&#x420;&#x416;&#x414;&#x410;&#x42E;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0ce70" id="11" symbol="11SwTextFrame" next="12" prev="10" upper="2" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="3338" width="9637" height="414" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="138" width="9637" height="276"/>
+    </infos>
+Заведующий кафедрой ИУ-7    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="6689"/>
+    <Text nLength="24" nType="PortionType::Text" nHeight="276" nWidth="2949" Portion="&#x417;&#x430;&#x432;&#x435;&#x434;&#x443;&#x44E;&#x449;&#x438;&#x439; &#x43A;&#x430;&#x444;&#x435;&#x434;&#x440;&#x43E;&#x439; &#x418;&#x423;-7"/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9638" Line="&#x417;&#x430;&#x432;&#x435;&#x434;&#x443;&#x44E;&#x449;&#x438;&#x439; &#x43A;&#x430;&#x444;&#x435;&#x434;&#x440;&#x43E;&#x439; &#x418;&#x423;-7"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0cfe0" id="12" symbol="11SwTextFrame" next="13" prev="11" upper="2" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="3752" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+______________  И. В. Рудаков    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="6432"/>
+    <Text nLength="29" nType="PortionType::Text" nHeight="276" nWidth="3206" Portion="______________  &#x418;. &#x412;. &#x420;&#x443;&#x434;&#x430;&#x43A;&#x43E;&#x432;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9638" Line="______________  &#x418;. &#x412;. &#x420;&#x443;&#x434;&#x430;&#x43A;&#x43E;&#x432;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0d150" id="13" symbol="11SwTextFrame" next="14" prev="12" upper="2" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="4028" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+« _____ » ____________ 20 ____ г.    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="6119"/>
+    <Text nLength="33" nType="PortionType::Text" nHeight="276" nWidth="3519" Portion="&#xAB; _____ &#xBB; ____________ 20 ____ &#x433;."/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9638" Line="&#xAB; _____ &#xBB; ____________ 20 ____ &#x433;."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0d2c0" id="14" symbol="11SwTextFrame" next="15" prev="13" upper="2" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="4304" width="9637" height="299" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="138" width="9637" height="161"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0d430" id="15" symbol="11SwTextFrame" next="16" prev="14" upper="2" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="4603" width="9637" height="414" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="414"/>
+    </infos>
+ЗАДАНИЕ    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3640"/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="414" nWidth="2358" Portion="&#x417;&#x410;&#x414;&#x410;&#x41D;&#x418;&#x415;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3640"/>
+    <LineBreak nWidth="9638" Line="&#x417;&#x410;&#x414;&#x410;&#x41D;&#x418;&#x415;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0d5a0" id="16" symbol="11SwTextFrame" next="17" prev="15" upper="2" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="5017" width="9637" height="368" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="368"/>
+    </infos>
+на выполнение научно-исследовательской работы    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="1153"/>
+    <Text nLength="45" nType="PortionType::Text" nHeight="368" nWidth="7332" Portion="&#x43D;&#x430; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D;&#x438;&#x435; &#x43D;&#x430;&#x443;&#x447;&#x43D;&#x43E;-&#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x439; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x44B;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="1153"/>
+    <LineBreak nWidth="9638" Line="&#x43D;&#x430; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D;&#x438;&#x435; &#x43D;&#x430;&#x443;&#x447;&#x43D;&#x43E;-&#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x439; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x44B;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0d710" id="17" symbol="11SwTextFrame" next="18" prev="16" upper="2" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="5385" width="9637" height="161" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="161"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0d880" id="18" symbol="11SwTextFrame" next="19" prev="17" upper="2" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="5546" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+по теме     Методы генерации музыкальных произведений полифонического склада                 <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="838" Portion="&#x43F;&#x43E; &#x442;&#x435;&#x43C;&#x435; "/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="276" nWidth="240" Portion="    "/>
+    <Text nLength="77" nType="PortionType::Text" nHeight="276" nWidth="8273" Portion="&#x41C;&#x435;&#x442;&#x43E;&#x434;&#x44B; &#x433;&#x435;&#x43D;&#x435;&#x440;&#x430;&#x446;&#x438;&#x438; &#x43C;&#x443;&#x437;&#x44B;&#x43A;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x432;&#x435;&#x434;&#x435;&#x43D;&#x438;&#x439; &#x43F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x433;&#x43E; &#x441;&#x43A;&#x43B;&#x430;&#x434;&#x430;             "/>
+    <LineBreak nWidth="9351" Line="&#x43F;&#x43E; &#x442;&#x435;&#x43C;&#x435;     &#x41C;&#x435;&#x442;&#x43E;&#x434;&#x44B; &#x433;&#x435;&#x43D;&#x435;&#x440;&#x430;&#x446;&#x438;&#x438; &#x43C;&#x443;&#x437;&#x44B;&#x43A;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x432;&#x435;&#x434;&#x435;&#x43D;&#x438;&#x439; &#x43F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x433;&#x43E; &#x441;&#x43A;&#x43B;&#x430;&#x434;&#x430;             "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0d9f0" id="19" symbol="11SwTextFrame" next="20" prev="18" upper="2" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="5822" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0db60" id="20" symbol="11SwTextFrame" next="21" prev="19" upper="2" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="6098" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+Студент группы   ИУ7-53Б*      <Text nLength="15" nType="PortionType::Text" nHeight="276" nWidth="1724" Portion="&#x421;&#x442;&#x443;&#x434;&#x435;&#x43D;&#x442; &#x433;&#x440;&#x443;&#x43F;&#x43F;&#x44B; "/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="276" nWidth="1041" Portion="  &#x418;&#x423;7-53&#x411;"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="67" Portion="*"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="120" Portion="  "/>
+    <LineBreak nWidth="2952" Line="&#x421;&#x442;&#x443;&#x434;&#x435;&#x43D;&#x442; &#x433;&#x440;&#x443;&#x43F;&#x43F;&#x44B;   &#x418;&#x423;7-53&#x411;*  "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0dcd0" id="21" symbol="11SwTextFrame" next="22" prev="20" upper="2" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="6374" width="9637" height="161" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="161"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="161"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0de40" id="22" symbol="11SwTextFrame" next="23" prev="21" upper="2" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="6535" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+                                                         Цветков Иван Алексеевич      *                                          <Text nLength="57" nType="PortionType::Text" nHeight="276" nWidth="3420" Portion="                                                         "/>
+    <Text nLength="29" nType="PortionType::Text" nHeight="276" nWidth="3048" Portion="&#x426;&#x432;&#x435;&#x442;&#x43A;&#x43E;&#x432; &#x418;&#x432;&#x430;&#x43D; &#x410;&#x43B;&#x435;&#x43A;&#x441;&#x435;&#x435;&#x432;&#x438;&#x447;      "/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="612" Portion="*"/>
+    <Text nLength="38" nType="PortionType::Text" nHeight="276" nWidth="2280" Portion="                                      "/>
+    <LineBreak nWidth="9360" Line="                                                         &#x426;&#x432;&#x435;&#x442;&#x43A;&#x43E;&#x432; &#x418;&#x432;&#x430;&#x43D; &#x410;&#x43B;&#x435;&#x43A;&#x441;&#x435;&#x435;&#x432;&#x438;&#x447;      *                                      "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0dfb0" id="23" symbol="11SwTextFrame" next="24" prev="22" upper="2" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="6811" width="9637" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="2836" top="0" width="6801" height="231"/>
+    </infos>
+(Фамилия, имя, отчество)    <Text nLength="24" nType="PortionType::Para" nHeight="231" nWidth="2186" Portion="(&#x424;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x44F;, &#x438;&#x43C;&#x44F;, &#x43E;&#x442;&#x447;&#x435;&#x441;&#x442;&#x432;&#x43E;)"/>
+    <LineBreak nWidth="2186" Line="(&#x424;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x44F;, &#x438;&#x43C;&#x44F;, &#x43E;&#x442;&#x447;&#x435;&#x441;&#x442;&#x432;&#x43E;)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0e120" id="24" symbol="11SwTextFrame" next="25" prev="23" upper="2" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="7042" width="9637" height="138" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="138"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0e290" id="25" symbol="11SwTextFrame" next="26" prev="24" upper="2" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="7180" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+Направленность НИР (учебная, исследовательская, практическая, производственная, др.)    <Text nLength="84" nType="PortionType::Para" nHeight="276" nWidth="9164" Portion="&#x41D;&#x430;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x43D;&#x43E;&#x441;&#x442;&#x44C; &#x41D;&#x418;&#x420; (&#x443;&#x447;&#x435;&#x431;&#x43D;&#x430;&#x44F;, &#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x430;&#x44F;, &#x43F;&#x440;&#x430;&#x43A;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x430;&#x44F;, &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x432;&#x43E;&#x434;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x430;&#x44F;, &#x434;&#x440;.)"/>
+    <LineBreak nWidth="9164" Line="&#x41D;&#x430;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x43D;&#x43E;&#x441;&#x442;&#x44C; &#x41D;&#x418;&#x420; (&#x443;&#x447;&#x435;&#x431;&#x43D;&#x430;&#x44F;, &#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x430;&#x44F;, &#x43F;&#x440;&#x430;&#x43A;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x430;&#x44F;, &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x432;&#x43E;&#x434;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x430;&#x44F;, &#x434;&#x440;.)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0e400" id="26" symbol="11SwTextFrame" next="27" prev="25" upper="2" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="7456" width="9637" height="414" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="138" width="9637" height="276"/>
+    </infos>
+_____________________________учебная____________________________________________    <Text nLength="29" nType="PortionType::Text" nHeight="276" nWidth="3480" Portion="_____________________________"/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="815" Portion="&#x443;&#x447;&#x435;&#x431;&#x43D;&#x430;&#x44F;"/>
+    <Text nLength="44" nType="PortionType::Text" nHeight="276" nWidth="5280" Portion="____________________________________________"/>
+    <LineBreak nWidth="9575" Line="_____________________________&#x443;&#x447;&#x435;&#x431;&#x43D;&#x430;&#x44F;____________________________________________"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0e570" id="27" symbol="11SwTextFrame" next="28" prev="26" upper="2" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="7870" width="9637" height="414" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="138" width="9637" height="276"/>
+    </infos>
+Источник тематики (кафедра, предприятие, НИР) ___НИР______________________________    <Text nLength="49" nType="PortionType::Text" nHeight="276" nWidth="5506" Portion="&#x418;&#x441;&#x442;&#x43E;&#x447;&#x43D;&#x438;&#x43A; &#x442;&#x435;&#x43C;&#x430;&#x442;&#x438;&#x43A;&#x438; (&#x43A;&#x430;&#x444;&#x435;&#x434;&#x440;&#x430;, &#x43F;&#x440;&#x435;&#x434;&#x43F;&#x440;&#x438;&#x44F;&#x442;&#x438;&#x435;, &#x41D;&#x418;&#x420;) ___"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="276" nWidth="480" Portion="&#x41D;&#x418;&#x420;"/>
+    <Text nLength="30" nType="PortionType::Text" nHeight="276" nWidth="3600" Portion="______________________________"/>
+    <LineBreak nWidth="9586" Line="&#x418;&#x441;&#x442;&#x43E;&#x447;&#x43D;&#x438;&#x43A; &#x442;&#x435;&#x43C;&#x430;&#x442;&#x438;&#x43A;&#x438; (&#x43A;&#x430;&#x444;&#x435;&#x434;&#x440;&#x430;, &#x43F;&#x440;&#x435;&#x434;&#x43F;&#x440;&#x438;&#x44F;&#x442;&#x438;&#x435;, &#x41D;&#x418;&#x420;) ___&#x41D;&#x418;&#x420;______________________________"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0e6e0" id="28" symbol="11SwTextFrame" next="31" prev="27" upper="2" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="8284" width="9637" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="231"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="231"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0ee60" id="31" symbol="11SwTextFrame" next="32" prev="28" upper="2" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="8515" width="9637" height="300" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="300"/>
+    </infos>
+График выполнения НИР:     25% к 4 нед., 50% к 7 нед., 75% к 11 нед., 100% к 14 нед.    <Text nLength="84" nType="PortionType::Para" nHeight="300" nWidth="8794" Portion="&#x413;&#x440;&#x430;&#x444;&#x438;&#x43A; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x41D;&#x418;&#x420;:     25% &#x43A; 4 &#x43D;&#x435;&#x434;., 50% &#x43A; 7 &#x43D;&#x435;&#x434;., 75% &#x43A; 11 &#x43D;&#x435;&#x434;., 100% &#x43A; 14 &#x43D;&#x435;&#x434;."/>
+    <LineBreak nWidth="8794" Line="&#x413;&#x440;&#x430;&#x444;&#x438;&#x43A; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x41D;&#x418;&#x420;:     25% &#x43A; 4 &#x43D;&#x435;&#x434;., 50% &#x43A; 7 &#x43D;&#x435;&#x434;., 75% &#x43A; 11 &#x43D;&#x435;&#x434;., 100% &#x43A; 14 &#x43D;&#x435;&#x434;."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0efd0" id="32" symbol="11SwTextFrame" next="33" prev="31" upper="2" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="8815" width="9637" height="184" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="184"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="184"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0f140" id="33" symbol="11SwTextFrame" next="34" prev="32" upper="2" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="8999" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+Техническое задание    <Text nLength="19" nType="PortionType::Para" nHeight="276" nWidth="2213" Portion="&#x422;&#x435;&#x445;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x435; &#x437;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x435;"/>
+    <LineBreak nWidth="2213" Line="&#x422;&#x435;&#x445;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x435; &#x437;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x435;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0f2b0" id="34" symbol="11SwTextFrame" next="35" prev="33" upper="2" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="9275" width="9637" height="1268" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9637" height="1227"/>
+    </infos>
+Классифицировать методы генерации музыкальных произведений полифонического склада. В ходе выполнения научно-исследовательской работы необходимо выделить критерии сравнения рассматриваемых методов. Также по предложенным критериям необходимо произвести сравнение методов.    <Text nLength="16" nType="PortionType::Text" nHeight="276" nWidth="1943" Portion="&#x41A;&#x43B;&#x430;&#x441;&#x441;&#x438;&#x444;&#x438;&#x446;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x442;&#x44C;"/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="887" Portion=" &#x43C;&#x435;&#x442;&#x43E;&#x434;&#x44B; "/>
+    <Text nLength="50" nType="PortionType::Text" nHeight="276" nWidth="5866" Portion="&#x433;&#x435;&#x43D;&#x435;&#x440;&#x430;&#x446;&#x438;&#x438; &#x43C;&#x443;&#x437;&#x44B;&#x43A;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x432;&#x435;&#x434;&#x435;&#x43D;&#x438;&#x439; &#x43F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x433;&#x43E;"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="8929" Line="&#x41A;&#x43B;&#x430;&#x441;&#x441;&#x438;&#x444;&#x438;&#x446;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x43C;&#x435;&#x442;&#x43E;&#x434;&#x44B; &#x433;&#x435;&#x43D;&#x435;&#x440;&#x430;&#x446;&#x438;&#x438; &#x43C;&#x443;&#x437;&#x44B;&#x43A;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x432;&#x435;&#x434;&#x435;&#x43D;&#x438;&#x439; &#x43F;&#x43E;&#x43B;&#x438;&#x444;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x433;&#x43E; "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="678" Portion="&#x441;&#x43A;&#x43B;&#x430;&#x434;&#x430;"/>
+    <Text nLength="71" nType="PortionType::Text" nHeight="276" nWidth="8041" Portion=". &#x412; &#x445;&#x43E;&#x434;&#x435; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x43D;&#x430;&#x443;&#x447;&#x43D;&#x43E;-&#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x439; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x44B; &#x43D;&#x435;&#x43E;&#x431;&#x445;&#x43E;&#x434;&#x438;&#x43C;&#x43E; &#x432;&#x44B;&#x434;&#x435;&#x43B;&#x438;&#x442;&#x44C;"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9638" Line="&#x441;&#x43A;&#x43B;&#x430;&#x434;&#x430;. &#x412; &#x445;&#x43E;&#x434;&#x435; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x43D;&#x430;&#x443;&#x447;&#x43D;&#x43E;-&#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x439; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x44B; &#x43D;&#x435;&#x43E;&#x431;&#x445;&#x43E;&#x434;&#x438;&#x43C;&#x43E; &#x432;&#x44B;&#x434;&#x435;&#x43B;&#x438;&#x442;&#x44C; "/>
+    <Text nLength="75" nType="PortionType::Text" nHeight="276" nWidth="8669" Portion="&#x43A;&#x440;&#x438;&#x442;&#x435;&#x440;&#x438;&#x438; &#x441;&#x440;&#x430;&#x432;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x440;&#x430;&#x441;&#x441;&#x43C;&#x430;&#x442;&#x440;&#x438;&#x432;&#x430;&#x435;&#x43C;&#x44B;&#x445; &#x43C;&#x435;&#x442;&#x43E;&#x434;&#x43E;&#x432;. &#x422;&#x430;&#x43A;&#x436;&#x435; &#x43F;&#x43E; &#x43F;&#x440;&#x435;&#x434;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x43D;&#x44B;&#x43C; &#x43A;&#x440;&#x438;&#x442;&#x435;&#x440;&#x438;&#x44F;&#x43C;"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9638" Line="&#x43A;&#x440;&#x438;&#x442;&#x435;&#x440;&#x438;&#x438; &#x441;&#x440;&#x430;&#x432;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x440;&#x430;&#x441;&#x441;&#x43C;&#x430;&#x442;&#x440;&#x438;&#x432;&#x430;&#x435;&#x43C;&#x44B;&#x445; &#x43C;&#x435;&#x442;&#x43E;&#x434;&#x43E;&#x432;. &#x422;&#x430;&#x43A;&#x436;&#x435; &#x43F;&#x43E; &#x43F;&#x440;&#x435;&#x434;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x43D;&#x44B;&#x43C; &#x43A;&#x440;&#x438;&#x442;&#x435;&#x440;&#x438;&#x44F;&#x43C; "/>
+    <Text nLength="40" nType="PortionType::Lay" nHeight="276" nWidth="4515" Portion="&#x43D;&#x435;&#x43E;&#x431;&#x445;&#x43E;&#x434;&#x438;&#x43C;&#x43E; &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x438; &#x441;&#x440;&#x430;&#x432;&#x43D;&#x435;&#x43D;&#x438;&#x435; &#x43C;&#x435;&#x442;&#x43E;&#x434;&#x43E;&#x432;."/>
+    <LineBreak nWidth="4515" Line="&#x43D;&#x435;&#x43E;&#x431;&#x445;&#x43E;&#x434;&#x438;&#x43C;&#x43E; &#x43F;&#x440;&#x43E;&#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x438; &#x441;&#x440;&#x430;&#x432;&#x43D;&#x435;&#x43D;&#x438;&#x435; &#x43C;&#x435;&#x442;&#x43E;&#x434;&#x43E;&#x432;."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0f420" id="35" symbol="11SwTextFrame" next="36" prev="34" upper="2" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="10543" width="9637" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9637" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0f590" id="36" symbol="11SwTextFrame" next="37" prev="35" upper="2" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="10860" width="9637" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9637" height="276"/>
+    </infos>
+Оформление научно-исследовательской работы:    <Text nLength="43" nType="PortionType::Para" nHeight="276" nWidth="5254" Portion="&#x41E;&#x444;&#x43E;&#x440;&#x43C;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x43D;&#x430;&#x443;&#x447;&#x43D;&#x43E;-&#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x439; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x44B;:"/>
+    <LineBreak nWidth="5254" Line="&#x41E;&#x444;&#x43E;&#x440;&#x43C;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x43D;&#x430;&#x443;&#x447;&#x43D;&#x43E;-&#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x439; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x44B;:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0f700" id="37" symbol="11SwTextFrame" next="38" prev="36" upper="2" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="11177" width="9637" height="92" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="92"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="92"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0f870" id="38" symbol="11SwTextFrame" next="39" prev="37" upper="2" txtNodeIndex="42" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="11269" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+Расчетно-пояснительная записка на 15-25 листах формата А4.    <Text nLength="58" nType="PortionType::Para" nHeight="276" nWidth="6363" Portion="&#x420;&#x430;&#x441;&#x447;&#x435;&#x442;&#x43D;&#x43E;-&#x43F;&#x43E;&#x44F;&#x441;&#x43D;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x430;&#x44F; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x43A;&#x430; &#x43D;&#x430; 15-25 &#x43B;&#x438;&#x441;&#x442;&#x430;&#x445; &#x444;&#x43E;&#x440;&#x43C;&#x430;&#x442;&#x430; &#x410;4."/>
+    <LineBreak nWidth="6363" Line="&#x420;&#x430;&#x441;&#x447;&#x435;&#x442;&#x43D;&#x43E;-&#x43F;&#x43E;&#x44F;&#x441;&#x43D;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x430;&#x44F; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x43A;&#x430; &#x43D;&#x430; 15-25 &#x43B;&#x438;&#x441;&#x442;&#x430;&#x445; &#x444;&#x43E;&#x440;&#x43C;&#x430;&#x442;&#x430; &#x410;4."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0f9e0" id="39" symbol="11SwTextFrame" next="40" prev="38" upper="2" txtNodeIndex="43" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="11545" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+Перечень графического (иллюстративного) материала (чертежи, плакаты, слайды и т.п.)       <Text nLength="86" nType="PortionType::Para" nHeight="276" nWidth="9243" Portion="&#x41F;&#x435;&#x440;&#x435;&#x447;&#x435;&#x43D;&#x44C; &#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x433;&#x43E; (&#x438;&#x43B;&#x43B;&#x44E;&#x441;&#x442;&#x440;&#x430;&#x442;&#x438;&#x432;&#x43D;&#x43E;&#x433;&#x43E;) &#x43C;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43B;&#x430; (&#x447;&#x435;&#x440;&#x442;&#x435;&#x436;&#x438;, &#x43F;&#x43B;&#x430;&#x43A;&#x430;&#x442;&#x44B;, &#x441;&#x43B;&#x430;&#x439;&#x434;&#x44B; &#x438; &#x442;.&#x43F;.)   "/>
+    <LineBreak nWidth="9243" Line="&#x41F;&#x435;&#x440;&#x435;&#x447;&#x435;&#x43D;&#x44C; &#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x433;&#x43E; (&#x438;&#x43B;&#x43B;&#x44E;&#x441;&#x442;&#x440;&#x430;&#x442;&#x438;&#x432;&#x43D;&#x43E;&#x433;&#x43E;) &#x43C;&#x430;&#x442;&#x435;&#x440;&#x438;&#x430;&#x43B;&#x430; (&#x447;&#x435;&#x440;&#x442;&#x435;&#x436;&#x438;, &#x43F;&#x43B;&#x430;&#x43A;&#x430;&#x442;&#x44B;, &#x441;&#x43B;&#x430;&#x439;&#x434;&#x44B; &#x438; &#x442;.&#x43F;.)   "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0fb50" id="40" symbol="11SwTextFrame" next="41" prev="39" upper="2" txtNodeIndex="44" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="11821" width="9637" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9637" height="276"/>
+    </infos>
+Презентация на 7-10 слайдах.    <Text nLength="28" nType="PortionType::Para" nHeight="276" nWidth="3033" Portion="&#x41F;&#x440;&#x435;&#x437;&#x435;&#x43D;&#x442;&#x430;&#x446;&#x438;&#x44F; &#x43D;&#x430; 7-10 &#x441;&#x43B;&#x430;&#x439;&#x434;&#x430;&#x445;."/>
+    <LineBreak nWidth="3033" Line="&#x41F;&#x440;&#x435;&#x437;&#x435;&#x43D;&#x442;&#x430;&#x446;&#x438;&#x44F; &#x43D;&#x430; 7-10 &#x441;&#x43B;&#x430;&#x439;&#x434;&#x430;&#x445;."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0fcc0" id="41" symbol="11SwTextFrame" next="42" prev="40" upper="2" txtNodeIndex="45" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="12138" width="9637" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9637" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0fe30" id="42" symbol="11SwTextFrame" next="43" prev="41" upper="2" txtNodeIndex="46" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="12455" width="9637" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9637" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf0ffa0" id="43" symbol="11SwTextFrame" next="44" prev="42" upper="2" txtNodeIndex="47" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="12772" width="9637" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9637" height="276"/>
+    </infos>
+Дата выдачи задания « ___ » ____________ 20__ г.    <Text nLength="48" nType="PortionType::Para" nHeight="276" nWidth="5190" Portion="&#x414;&#x430;&#x442;&#x430; &#x432;&#x44B;&#x434;&#x430;&#x447;&#x438; &#x437;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x44F; &#xAB; ___ &#xBB; ____________ 20__ &#x433;."/>
+    <LineBreak nWidth="5190" Line="&#x414;&#x430;&#x442;&#x430; &#x432;&#x44B;&#x434;&#x430;&#x447;&#x438; &#x437;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x44F; &#xAB; ___ &#xBB; ____________ 20__ &#x433;."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf10110" id="44" symbol="11SwTextFrame" next="45" prev="43" upper="2" txtNodeIndex="48" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="13089" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf10280" id="45" symbol="11SwTextFrame" next="46" prev="44" upper="2" txtNodeIndex="49" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="13365" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+Руководитель НИР*****_________________     Ю. М. Гаврилова*    <Text nLength="16" nType="PortionType::Text" nHeight="276" nWidth="2100" Portion="&#x420;&#x443;&#x43A;&#x43E;&#x432;&#x43E;&#x434;&#x438;&#x442;&#x435;&#x43B;&#x44C; &#x41D;&#x418;&#x420;"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="24" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="708" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="708" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="708" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="708" Portion="*"/>
+    <Text nLength="19" nType="PortionType::Text" nHeight="276" nWidth="2160" Portion="_________________  "/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="276" nWidth="180" Portion="   "/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="276" nWidth="1767" Portion="&#x42E;. &#x41C;. &#x413;&#x430;&#x432;&#x440;&#x438;&#x43B;&#x43E;&#x432;&#x430;"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="141" Portion="*"/>
+    <LineBreak nWidth="9204" Line="&#x420;&#x443;&#x43A;&#x43E;&#x432;&#x43E;&#x434;&#x438;&#x442;&#x435;&#x43B;&#x44C; &#x41D;&#x418;&#x420;*****_________________     &#x42E;. &#x41C;. &#x413;&#x430;&#x432;&#x440;&#x438;&#x43B;&#x43E;&#x432;&#x430;*"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf103f0" id="46" symbol="11SwTextFrame" next="47" prev="45" upper="2" txtNodeIndex="50" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="13641" width="9637" height="207" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9072" height="207"/>
+    </infos>
+(Подпись, дата)                            (И.О.Фамилия)                <Text nLength="68" nType="PortionType::Para" nHeight="207" nWidth="3637" Portion="(&#x41F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x44C;, &#x434;&#x430;&#x442;&#x430;)                            (&#x418;.&#x41E;.&#x424;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x44F;)            "/>
+    <LineBreak nWidth="3637" Line="(&#x41F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x44C;, &#x434;&#x430;&#x442;&#x430;)                            (&#x418;.&#x41E;.&#x424;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x44F;)            "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf10560" id="47" symbol="11SwTextFrame" next="48" prev="46" upper="2" txtNodeIndex="51" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="13848" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+Студент******_________________       И. А. Цветков*     <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="895" Portion="&#x421;&#x442;&#x443;&#x434;&#x435;&#x43D;&#x442;"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="521" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="708" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="708" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="708" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="708" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="708" Portion="*"/>
+    <Text nLength="17" nType="PortionType::Text" nHeight="276" nWidth="2040" Portion="_________________"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="120" Portion="  "/>
+    <Text nLength="5" nType="PortionType::Text" nHeight="276" nWidth="300" Portion="     "/>
+    <Text nLength="13" nType="PortionType::Text" nHeight="276" nWidth="1435" Portion="&#x418;. &#x410;. &#x426;&#x432;&#x435;&#x442;&#x43A;&#x43E;&#x432;"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="276" nWidth="353" Portion="*"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="60" Portion=" "/>
+    <LineBreak nWidth="9264" Line="&#x421;&#x442;&#x443;&#x434;&#x435;&#x43D;&#x442;******_________________       &#x418;. &#x410;. &#x426;&#x432;&#x435;&#x442;&#x43A;&#x43E;&#x432;* "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf106d0" id="48" symbol="11SwTextFrame" next="49" prev="47" upper="2" txtNodeIndex="52" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="14124" width="9637" height="207" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9072" height="207"/>
+    </infos>
+(Подпись, дата)                             (И.О.Фамилия)                <Text nLength="69" nType="PortionType::Para" nHeight="207" nWidth="3682" Portion="(&#x41F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x44C;, &#x434;&#x430;&#x442;&#x430;)                             (&#x418;.&#x41E;.&#x424;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x44F;)            "/>
+    <LineBreak nWidth="3682" Line="(&#x41F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x44C;, &#x434;&#x430;&#x442;&#x430;)                             (&#x418;.&#x41E;.&#x424;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x44F;)            "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf10840" id="49" symbol="11SwTextFrame" next="50" prev="48" upper="2" txtNodeIndex="53" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="14331" width="9637" height="231" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="231"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="231"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf109b0" id="50" symbol="11SwTextFrame" next="51" prev="49" upper="2" txtNodeIndex="54" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="14562" width="9637" height="506" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="506"/>
+    </infos>
+Примечание: Задание оформляется в двух экземплярах: один выдается студенту, второй хранится на кафедре.    <Text nLength="10" nType="PortionType::Text" nHeight="253" nWidth="1165" Portion="&#x41F;&#x440;&#x438;&#x43C;&#x435;&#x447;&#x430;&#x43D;&#x438;&#x435;"/>
+    <Text nLength="84" nType="PortionType::Text" nHeight="253" nWidth="8319" Portion=": &#x417;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x435; &#x43E;&#x444;&#x43E;&#x440;&#x43C;&#x43B;&#x44F;&#x435;&#x442;&#x441;&#x44F; &#x432; &#x434;&#x432;&#x443;&#x445; &#x44D;&#x43A;&#x437;&#x435;&#x43C;&#x43F;&#x43B;&#x44F;&#x440;&#x430;&#x445;: &#x43E;&#x434;&#x438;&#x43D; &#x432;&#x44B;&#x434;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x441;&#x442;&#x443;&#x434;&#x435;&#x43D;&#x442;&#x443;, &#x432;&#x442;&#x43E;&#x440;&#x43E;&#x439; &#x445;&#x440;&#x430;&#x43D;&#x438;&#x442;&#x441;&#x44F; &#x43D;&#x430;"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9484" Line="&#x41F;&#x440;&#x438;&#x43C;&#x435;&#x447;&#x430;&#x43D;&#x438;&#x435;: &#x417;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x435; &#x43E;&#x444;&#x43E;&#x440;&#x43C;&#x43B;&#x44F;&#x435;&#x442;&#x441;&#x44F; &#x432; &#x434;&#x432;&#x443;&#x445; &#x44D;&#x43A;&#x437;&#x435;&#x43C;&#x43F;&#x43B;&#x44F;&#x440;&#x430;&#x445;: &#x43E;&#x434;&#x438;&#x43D; &#x432;&#x44B;&#x434;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x441;&#x442;&#x443;&#x434;&#x435;&#x43D;&#x442;&#x443;, &#x432;&#x442;&#x43E;&#x440;&#x43E;&#x439; &#x445;&#x440;&#x430;&#x43D;&#x438;&#x442;&#x441;&#x44F; &#x43D;&#x430; "/>
+    <Text nLength="8" nType="PortionType::Lay" nHeight="253" nWidth="819" Portion="&#x43A;&#x430;&#x444;&#x435;&#x434;&#x440;&#x435;."/>
+    <LineBreak nWidth="819" Line="&#x43A;&#x430;&#x444;&#x435;&#x434;&#x440;&#x435;."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5591cbf10b20" id="51" symbol="11SwTextFrame" prev="50" upper="2" txtNodeIndex="55" WritingMode="Horizontal">
+    <infos>
+     <bounds left="9149" top="15068" width="9637" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9637" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
